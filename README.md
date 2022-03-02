@@ -1,1 +1,1 @@
-"# html5-school-of-net" 
+Repositório do curso de HTML5 da School of Net
